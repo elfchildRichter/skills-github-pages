@@ -1,0 +1,7 @@
+theme: minima
+
+title: Page Test
+author: ER
+description: This is a test page.
+url: "https://elfchildrichter.github.io"
+baseurl: "/skills-github-pages"
